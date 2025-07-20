@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vikash-portfolio/static/css/main.710aaaa7.css",
+    "main.js": "/vikash-portfolio/static/js/main.de0cf786.js",
+    "index.html": "/vikash-portfolio/index.html",
+    "main.710aaaa7.css.map": "/vikash-portfolio/static/css/main.710aaaa7.css.map",
+    "main.de0cf786.js.map": "/vikash-portfolio/static/js/main.de0cf786.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710aaaa7.css",
+    "static/js/main.de0cf786.js"
+  ]
+}
