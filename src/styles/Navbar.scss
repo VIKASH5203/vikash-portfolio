@@ -1,0 +1,19 @@
+.custom-navbar {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  border-bottom: 1px solid #ccc;
+
+  .brand {
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .nav-links span {
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+
+  .nav-links span:hover {
+    color: #007bff;
+  }
+}

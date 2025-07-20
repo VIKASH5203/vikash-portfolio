@@ -1,0 +1,13 @@
+.theme-toggle {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  z-index: 1000;
+  font-size: 0.9rem;
+}

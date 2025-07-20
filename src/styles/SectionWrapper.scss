@@ -1,0 +1,17 @@
+.section-wrapper {
+  padding: 60px 20px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+
+  .section-title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .section-content {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+}
